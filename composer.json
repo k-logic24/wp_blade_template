@@ -1,0 +1,12 @@
+{
+    "name": "kohei/sample_theme",
+    "authors": [
+        {
+            "name": "岩田康平",
+            "email": "iwater0715@gmail.com"
+        }
+    ],
+    "require": {
+        "jenssegers/blade": "^1.4"
+    }
+}
