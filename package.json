@@ -1,0 +1,23 @@
+{
+  "name": "sample_theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "browser-sync start open --proxy http://samplesite.local/ --files views/**/*.blade.php views/*.blade.php"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-logic24/wp_blade_template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k-logic24/wp_blade_template/issues"
+  },
+  "homepage": "https://github.com/k-logic24/wp_blade_template#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.13"
+  }
+}
